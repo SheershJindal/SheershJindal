@@ -11,18 +11,24 @@ Learning and developing things because I enjoy it. Feel free to enjoy with me.
 &nbsp; &nbsp; :sunglasses:	New repos added everytime I start a new project. Scroll down to find some now. :sunglasses:
 
 <div align="center">
-  <h2> Looking for programming skills ? 🔧</h2>
-  <img src="/icons/c++.png" width="40px" alt="C++">&nbsp; 
-  <img src="/icons/c-sharp.png" width="40px" alt="C#">&nbsp; 
-  <img src="/icons/python.png" width="40px" alt="Python">&nbsp; 
+  <!--- <h2> Looking for programming skills ? 🔧</h2> -->
+  <h2> Finally, here you go. My Skills !!! 🔧</h2>
+  <img src="/icons/js.png" width="40px" alt="JavaScript">&nbsp; 
+  <img src="/icons/node-js.png" width="40px" alt="NodeJS">&nbsp; 
+  <img src="/icons/express-js.png" width="40px" alt="ExpressJS">&nbsp; 
+  <img src="/icons/mongodb.png" height="40px" alt="MongoDB">&nbsp; 
+  <img src="/icons/react.png" width="40px" alt="ReactJS">&nbsp; 
+  <img src="/icons/mysql.png" width="40px" alt="MySQL">&nbsp; 
   <img src="/icons/java.png" width="40px" alt="Java">&nbsp; 
   <img src="/icons/html.png" width="40px" alt="HTML">&nbsp; 
   <img src="/icons/css.png" width="40px" alt="CSS">&nbsp; 
-  <img src="/icons/js.png" width="40px" alt="JavaScript">&nbsp; 
-  <img src="/icons/react.png" width="40px" alt="ReactJS">&nbsp; 
-  <img src="/icons/mysql.png" width="40px" alt="MySQL">&nbsp; 
+  <img src="/icons/c++.png" width="40px" alt="C++">&nbsp; 
+  <img src="/icons/c-sharp.png" width="40px" alt="C#">&nbsp; 
+  <img src="/icons/python.png" width="40px" alt="Python">&nbsp; 
   
-  <h2> And here are some non-programming skills. . .</h2>
+
+  
+  <!--- <h2> And here are some non-programming skills. . .</h2> -->
   <img src="/icons/after-effects.png" width="40px" alt="Adobe After Effects">&nbsp; 
   <img src="/icons/illustrator.png" width="40px" alt="Adobe Illustrator">&nbsp; 
   <img src="/icons/photoshop.png" width="40px" alt="Adobe Photoshop">&nbsp; 
